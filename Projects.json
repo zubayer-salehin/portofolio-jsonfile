@@ -1,65 +1,65 @@
 [
-    {
-        "id": 1,
-        "name": "Orgafresh-fruites",
-        "title": "Warehouse Management Website",
-        "description": "Developed a Warehouse Management Website using MERN stack that allows users to buy fruits.",
-        "image1": "https://i.ibb.co/GQYFGqQ/Screenshot-2022-10-08-133347-4.png",
-        "image2": "https://i.ibb.co/5G87GP3/Screenshot-2022-10-08-133427-2.png",
-        "image3": "https://i.ibb.co/brBmC3S/Screenshot-2022-10-08-135034.png",
-        "live": "https://orgafresh-fruites.web.app/home",
-        "client": "https://github.com/zubayer-salehin/orgafresh-fruites-client-side",
-        "server": "https://github.com/zubayer-salehin/orgafresh-fruites-server-side",
-        "descriptions": [
-            "Developed a Warehouse Management Website using MERN stack that allows users to buy fruits.Users can check fruit details or order warehouse fruits by logging Gmail, GitHub, Email, and Password. Users can add and delete furite.",
-            "Home page : First on the website,There is a homepage.There is a navber, picture and some text in the homepage.When you scroll the website,A inventory section will appear.There are six products behind this section.The name of the fruite name,picture,price,description,supplier name,quantity have been tweaked.",
-            "Stock Update : Clicking on the stock update button will take you to the inventory/id page.Inventory/id page appear fruite name,picture,price,description,supplier name,quantity, deliverd button, restock button. delivered button click quantiy item one minus and sold item one plus. Restock button click than show input filed and update stock button. Clicking update stock button update a quantity item.",
-            "Manage Item page : Manage Item route click then show furite will appera by react bootstrap table.This is page shows fruite name,picture,price,description,supplier name,quantity and delete button. Clicking on the delete button item is remove manage item and inventory page.",
-            "Add Item page : Add Item route click then show a from and add item button. Add item butto clicking the from write item add inventory section and My item page.",
-            "My Item page : My Item route click then show My adding item will appear by react bootstrap table.",
-            " If you go to a page other than the home,Manage Itme,Add Item,My Item,Blog page. it will show you an error message."
-        ],
-        "technology": "React, React Bootstrap, Firebase Authentication,FontAwesome, Node js, Express js, JWT, Mongodb Atlas, MVC Pattern, Mongoose"
-    },
-    {
-        "id": 2,
-        "name": "Jerin-parlour",
-        "title": "Service Provider Website",
-        "description": "Developed a Service Provider Website using MERN stack that allows users to book services.",
-        "image1": "https://i.ibb.co/87sCf9B/Screenshot-2022-10-08-135235.png",
-        "image2": "https://i.ibb.co/dD1LMmp/Screenshot-2022-10-08-135404.png",
-        "image3": "https://i.ibb.co/VTBrt6M/Screenshot-2022-10-08-135509.png",
-        "live": "https://jerin-parlour-55b6a.web.app/home",
-        "client": "https://github.com/zubayer-salehin/jerin-parlour-client-side",
-        "server": "https://github.com/zubayer-salehin/jerin-parlour-server-side",
-        "descriptions": [
-            "Developed a Service Provider Website using MERN stack that allows users to book services.Users can service books by logging Gmail, Email, and Password. Users can add and delete their own booking services.",
-            "Home page : First on the website,There is a homepage.There is a navber, picture and some text in the homepage.When you scroll the website,A Service section will appear.There are Three services behind this section.The name of the service name,picture,price,description,available slots have been tweaked.",
-            "Book Now : Clicking on the Book now button will take a modal open. Modal appear userName, userEmail, Todays date, Booking time, address, phone. order place button click the form input value to store a database and succes message appear and go to the Pay to Proced page.Clicking on the pay to proced button this button go to the payment page",
-            "There are two separate dashboards for users and admin. The admin can check All booking, manage tools, Add tools, Make Admin route and users can check their own Profile, booking and Add review route.",
-            "If you go to a page other than the home,dashboard,Our Team,My Portofolio. it will show you an error message."
-        ],
-        "technology": "React, Tailwind, Daisy Ui, Firebase Authentication, Node js, Express js, NodeMailer, JWT, Mongodb Atlas, utilized stripe payment to accept credit/debit cards."
-    },
-    {
-        "id": 3,
-        "name": "Stroyka Tools Manufacture",
-        "title": "Manufacture Company Website",
-        "description": "Developed a Tools Manufacture Website using MERN stack that allows users to buy plumbing tools.",
-        "image1": "https://i.ibb.co/93rgncG/Screenshot-2022-10-08-135900.png",
-        "image2": "https://i.ibb.co/qnwzzHT/Screenshot-2022-10-08-140137.png",
-        "image3": "https://i.ibb.co/rQjTnDr/Screenshot-2022-10-08-140040.png",
-        "live": "https://stroyka-dc059.web.app/",
-        "client": "https://github.com/zubayer-salehin/stroyka-client-side",
-        "server": "https://github.com/zubayer-salehin/stroyka-server-side",
-        "descriptions": [
-            "Developed a Tools Manufacture Website using MERN stack that allows users to buy plumbing tools. Users can check tools details or order tools by logging Gmail, Email, and Password. Users can add and delete their own booking services.",
-            "Home page : First on the website,There is a homepage.There is a navber, picture and some text in the homepage.When you scroll the website,A Tools section will appear.There are six products behind this section.The name of the Tool name,picture,price,description,available quantity,minimum quantity have been tweaked.",
-            "Book Now : Clicking on the Book now button will take you to the parchase/id page.parchase/id page appear tool name,picture,price,description,available quantity,minimum quantity and right side appear a order place form and many input available and order place button include. order place button click the form input value to store a database and succes message appear and go to the payment page.",
-            "My Portofolio page : In this route, I will have my name, email address, educational background, list of technologies or skills I have as a web developer. Add links of three of my projects (live website links), Adding descriptions.",
-            "There are two separate dashboards for users and admin. The admin can check All booking, manage tools, Add tools, Make Admin route and users can check their own Profile, booking and Add review route.",
-            "If you go to a page other than the home,dashboard,My Portofolio,Blog page. it will show you an error message."
-        ],
-        "technology": "React, Tailwind, Daisy Ui, Firebase Authentication, Node js, Express js, NodeMailer, JWT, Mongodb Atlas, utilized stripe payment to accept credit/debit cards."
-    }
+  {
+    "id": 1,
+    "name": "Jerin-parlour",
+    "title": "Service Provider Website",
+    "description": "Developed a Service Provider Website using MERN stack that allows users to book services.",
+    "image1": "https://i.ibb.co/87sCf9B/Screenshot-2022-10-08-135235.png",
+    "image2": "https://i.ibb.co/dD1LMmp/Screenshot-2022-10-08-135404.png",
+    "image3": "https://i.ibb.co/VTBrt6M/Screenshot-2022-10-08-135509.png",
+    "live": "https://jerin-parlour-55b6a.web.app/home",
+    "client": "https://github.com/zubayer-salehin/jerin-parlour-client-side",
+    "server": "https://github.com/zubayer-salehin/jerin-parlour-server-side",
+    "descriptions": [
+      "Developed a Service Provider Website using MERN stack that allows users to book services.Users can service books by logging Gmail, Email, and Password. Users can add and delete their own booking services.",
+      "Home page : First on the website,There is a homepage.There is a navber, picture and some text in the homepage.When you scroll the website,A Service section will appear.There are Three services behind this section.The name of the service name,picture,price,description,available slots have been tweaked.",
+      "Book Now : Clicking on the Book now button will take a modal open. Modal appear userName, userEmail, Todays date, Booking time, address, phone. order place button click the form input value to store a database and succes message appear and go to the Pay to Proced page.Clicking on the pay to proced button this button go to the payment page",
+      "There are two separate dashboards for users and admin. The admin can check All booking, manage tools, Add tools, Make Admin route and users can check their own Profile, booking and Add review route.",
+      "If you go to a page other than the home,dashboard,Our Team,My Portofolio. it will show you an error message."
+    ],
+    "technology": "React, Tailwind, Daisy Ui, Firebase Authentication, Node js, Express js, NodeMailer, JWT, Mongodb Atlas, utilized stripe payment to accept credit/debit cards."
+  },
+  {
+    "id": 2,
+    "name": "Stroyka Tools Manufacture",
+    "title": "Manufacture Company Website",
+    "description": "Developed a Tools Manufacture Website using MERN stack that allows users to buy plumbing tools.",
+    "image1": "https://i.ibb.co/93rgncG/Screenshot-2022-10-08-135900.png",
+    "image2": "https://i.ibb.co/qnwzzHT/Screenshot-2022-10-08-140137.png",
+    "image3": "https://i.ibb.co/rQjTnDr/Screenshot-2022-10-08-140040.png",
+    "live": "https://stroyka-dc059.web.app/",
+    "client": "https://github.com/zubayer-salehin/stroyka-client-side",
+    "server": "https://github.com/zubayer-salehin/stroyka-server-side",
+    "descriptions": [
+      "Developed a Tools Manufacture Website using MERN stack that allows users to buy plumbing tools. Users can check tools details or order tools by logging Gmail, Email, and Password. Users can add and delete their own booking services.",
+      "Home page : First on the website,There is a homepage.There is a navber, picture and some text in the homepage.When you scroll the website,A Tools section will appear.There are six products behind this section.The name of the Tool name,picture,price,description,available quantity,minimum quantity have been tweaked.",
+      "Book Now : Clicking on the Book now button will take you to the parchase/id page.parchase/id page appear tool name,picture,price,description,available quantity,minimum quantity and right side appear a order place form and many input available and order place button include. order place button click the form input value to store a database and succes message appear and go to the payment page.",
+      "My Portofolio page : In this route, I will have my name, email address, educational background, list of technologies or skills I have as a web developer. Add links of three of my projects (live website links), Adding descriptions.",
+      "There are two separate dashboards for users and admin. The admin can check All booking, manage tools, Add tools, Make Admin route and users can check their own Profile, booking and Add review route.",
+      "If you go to a page other than the home,dashboard,My Portofolio,Blog page. it will show you an error message."
+    ],
+    "technology": "React, Tailwind, Daisy Ui, Firebase Authentication, Node js, Express js, NodeMailer, JWT, Mongodb Atlas, utilized stripe payment to accept credit/debit cards."
+  },
+  {
+    "id": 3,
+    "name": "Orgafresh-fruites",
+    "title": "Warehouse Management Website",
+    "description": "Developed a Warehouse Management Website using MERN stack that allows users to buy fruits.",
+    "image1": "https://i.ibb.co/GQYFGqQ/Screenshot-2022-10-08-133347-4.png",
+    "image2": "https://i.ibb.co/5G87GP3/Screenshot-2022-10-08-133427-2.png",
+    "image3": "https://i.ibb.co/brBmC3S/Screenshot-2022-10-08-135034.png",
+    "live": "https://orgafresh-fruites.web.app/home",
+    "client": "https://github.com/zubayer-salehin/orgafresh-fruites-client-side",
+    "server": "https://github.com/zubayer-salehin/orgafresh-fruites-server-side",
+    "descriptions": [
+      "Developed a Warehouse Management Website using MERN stack that allows users to buy fruits.Users can check fruit details or order warehouse fruits by logging Gmail, GitHub, Email, and Password. Users can add and delete furite.",
+      "Home page : First on the website,There is a homepage.There is a navber, picture and some text in the homepage.When you scroll the website,A inventory section will appear.There are six products behind this section.The name of the fruite name,picture,price,description,supplier name,quantity have been tweaked.",
+      "Stock Update : Clicking on the stock update button will take you to the inventory/id page.Inventory/id page appear fruite name,picture,price,description,supplier name,quantity, deliverd button, restock button. delivered button click quantiy item one minus and sold item one plus. Restock button click than show input filed and update stock button. Clicking update stock button update a quantity item.",
+      "Manage Item page : Manage Item route click then show furite will appera by react bootstrap table.This is page shows fruite name,picture,price,description,supplier name,quantity and delete button. Clicking on the delete button item is remove manage item and inventory page.",
+      "Add Item page : Add Item route click then show a from and add item button. Add item butto clicking the from write item add inventory section and My item page.",
+      "My Item page : My Item route click then show My adding item will appear by react bootstrap table.",
+      " If you go to a page other than the home,Manage Itme,Add Item,My Item,Blog page. it will show you an error message."
+    ],
+    "technology": "React, React Bootstrap, Firebase Authentication,FontAwesome, Node js, Express js, JWT, Mongodb Atlas, MVC Pattern, Mongoose"
+  }
 ]

@@ -1,6 +1,25 @@
 [
   {
     "id": 1,
+    "name": "IQ Sonet",
+    "title": "Social Media Website",
+    "description": "I have created a Social Media Website using the MERN stack, offering users a distinctive and engaging experience.",
+    "image1": "https://i.ibb.co/QXtW1z0/Screenshot-2024-01-13-163422.png",
+    "image2": "https://i.ibb.co/TgfQsx3/Screenshot-2024-01-13-163502.png",
+    "image3": "https://i.ibb.co/BGh8Fkf/Screenshot-2024-01-13-163548.png",
+    "live": "https://iqsonet.com",
+    "client": "",
+    "server": "",
+    "descriptions": [
+      "Crafted IQ-sonet with a Timeline, Community forum, Job-portal, and Post-saving feature",
+      "Introduced a user-friendly network page enabling follow requests, profile edits, and a point-based engagement system redeemable on IQ-barter",
+      "Enabled distinct content segregation, ensuring posts in the Timeline, Community, and Job Portal sections remain exclusive to their designated areas.",
+      "Introduced a point system based on user actions, while ensuring secure registration and login options for accessibility"
+    ],
+    "technology": ": React, Tailwind, Daisy Ui, Firebase Google Authentication, Socket io, Node js, Express js, Mongodb, Mongoose, Redux, NodeMailer, JWT, MVC Pattern, AWS."
+  },
+  {
+    "id": 2,
     "name": "Jerin-parlour",
     "title": "Service Provider Website",
     "description": "Developed a Service Provider Website using MERN stack that allows users to book services.",
@@ -20,7 +39,7 @@
     "technology": "React, Tailwind, Daisy Ui, Firebase Authentication, Node js, Express js, NodeMailer, JWT, Mongodb Atlas, utilized stripe payment to accept credit/debit cards."
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Stroyka Tools Manufacture",
     "title": "Manufacture Company Website",
     "description": "Developed a Tools Manufacture Website using MERN stack that allows users to buy plumbing tools.",
@@ -41,7 +60,7 @@
     "technology": "React, Tailwind, Daisy Ui, Firebase Authentication, Node js, Express js, NodeMailer, JWT, Mongodb Atlas, utilized stripe payment to accept credit/debit cards."
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Orgafresh-fruites",
     "title": "Warehouse Management Website",
     "description": "Developed a Warehouse Management Website using MERN stack that allows users to buy fruits.",
